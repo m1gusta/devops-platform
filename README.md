@@ -28,5 +28,9 @@ Coming soon...
 ## Run
 
 ```bash
+make up
+```
+
+```bash
 docker compose up -d
 ```
